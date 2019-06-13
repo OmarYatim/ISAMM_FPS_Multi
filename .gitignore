@@ -34,3 +34,23 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+#Node-JS/Socket-IO Server files
+lib-cov
+*.seed
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+
+pids
+logs
+results
+.vscode
+*.d.ts
+/typings
+
+node_modules
+npm-debug.log
